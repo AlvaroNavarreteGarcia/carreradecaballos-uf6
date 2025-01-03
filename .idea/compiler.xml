@@ -7,6 +7,7 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="CarrerasDeCaballosConsole" />
+        <module name="carrera-de-caballos" />
       </profile>
     </annotationProcessing>
   </component>
