@@ -1,0 +1,21 @@
+.custom-button {
+    -fx-background-color: #ffffff;
+    -fx-text-fill: black;
+    -fx-font-size: 14px;
+    -fx-padding: 10 20;
+    -fx-background-radius: 10;
+}
+
+.custom-button:hover {
+    -fx-background-color: #e1e1e1;
+}
+
+.stack-pane-background {
+    -fx-background-image: url("../images/FondoPrimeraEscena.jpeg");
+    /*-fx-background-color: #1cb50b;*/
+    -fx-background-size: cover;
+    -fx-background-position: center center;
+    -fx-background-repeat: no-repeat;
+}
+
+
